@@ -48,7 +48,6 @@ questions_dict = {
     29:'Lorentz transformation of velocities -- derivation, application to addition of velocities.'
 }
 
-
 window = pygame.display.set_mode((window_width, window_height))
 pygame.display.set_caption("Physics exam questions :0")
 
